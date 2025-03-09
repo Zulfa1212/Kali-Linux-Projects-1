@@ -1,0 +1,10 @@
+# theHarvester — An OSINT Tool for Ethical Hackers
+
+**theHarvester** is a powerful open-source intelligence (OSINT) tool. It scrapes data from various sources such as search engines, public databases, and social networks to uncover sensitive details like email addresses, subdomains, IP addresses, and more.
+
+## How to Use theHarvester
+theHarvester -d example.com -b all
+
+<ins> -d example.com → </ins> Specifies the target domain.
+<ins> -b all → </ins> Uses all available sources for information gathering.
+theHarvester is a must-have tool for ethical hackers, penetration testers, and security researchers. However, it should always be used ethically and legally.
